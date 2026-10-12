@@ -10,4 +10,4 @@ Podeis navegar por el repositorio y descargar los recursos y utilizarlos con tot
 - github: [github.com/PythonBilbao](https://github.com/PythonBilbao/)
 - linkedin: [linkedin.com/company/python-bilbao](https://www.linkedin.com/company/python-bilbao/)
 - meetup: [www.meetup.com/es-es/python-bilbao/](https://www.meetup.com/es-es/python-bilbao/)
-- email: [bilbao-user@comunidad.es.python.org](mailto:bilbao-user@comunidad.es.python.org)
+- email: [bilbao@es.python.org](mailto:bilbao@es.python.org)
